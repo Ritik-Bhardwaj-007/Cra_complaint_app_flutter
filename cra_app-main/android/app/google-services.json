@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762536351500",
+    "project_id": "cra-complaint",
+    "storage_bucket": "cra-complaint.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762536351500:android:a8fc8babc8eedb695c5b29",
+        "android_client_info": {
+          "package_name": "com.example.cra_complaints"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762536351500-uuloff6pah0r5gecs3hhuplcgcuk75g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhS93rbgIouRnppIH2VXmB898N8F7VkUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762536351500-uuloff6pah0r5gecs3hhuplcgcuk75g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
